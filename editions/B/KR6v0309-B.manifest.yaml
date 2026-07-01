@@ -1,0 +1,38 @@
+canonical_identifier: bkk:krp/KR6v0309/B/v1
+canonical_location: https://kanripo.org/bkk/KR6v0309/B/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 南傳轉法輪經
+  identifiers:
+    krp: KR6v0309
+    cbeta: B07n0010
+    cbeta_old_id: B07n0010
+    authorityid: CA0006094
+    json_key: B0010
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/B/B07/B07n0010.xml
+    old_id: B07n0010
+  edition:
+    short: B
+assets:
+  parts:
+  - {seq: 0, filename: KR6v0309_000-B.yaml, hash: 'sha256:db85d09d1f4998fe37c0aaad7d2975afd10207c42764282b50e0fb1a341af10b'}
+  - {seq: 1, filename: KR6v0309_001-B.yaml, hash: 'sha256:07653efbd8c5ce364e35d09e01a8c8bdbae27764f1b15ca50ac72f628ca93b33'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6v0309_000-B.markers.yaml, hash: 'sha256:b1245e55781d47ecd477a16c8f8a3e1c07c5d17c78ec027a964d2d13ef3dbe24'}
+  - {seq: 1, role: markers, filename: assets/KR6v0309_001-B.markers.yaml, hash: 'sha256:6a79fe0acf07f4920cca54c44b0b6ac8c8dd195decaa14e1dd32e81f222c4aab'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6v0309_B_001-juan-start
+    span:
+    - body
+    - 0
+    - 1244
+  label: 南傳轉法輪經
+  type: juan
+  level: 1
+hash: sha256:e213073574cbf9b17c3971cad54533d7ea071b9570ca7d149e0634e8f788e170

@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6v0309/b/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 南傳轉法輪經
+  edition:
+    short: b
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/B/B07/B07n0010.xml
+    old_id: B07n0010
+hash: sha256:db85d09d1f4998fe37c0aaad7d2975afd10207c42764282b50e0fb1a341af10b

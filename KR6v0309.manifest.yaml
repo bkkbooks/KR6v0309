@@ -14,9 +14,10 @@ metadata:
 assets:
   parts:
   - {seq: 0, filename: KR6v0309_000.yaml, hash: 'sha256:db85d09d1f4998fe37c0aaad7d2975afd10207c42764282b50e0fb1a341af10b'}
-  - {seq: 1, filename: KR6v0309_001.yaml, hash: 'sha256:e852b3db307fd0e2355768a684352ef25fc763b5904fea5a39b8daed4aed6285'}
+  - {seq: 1, filename: KR6v0309_001.yaml, hash: 'sha256:07653efbd8c5ce364e35d09e01a8c8bdbae27764f1b15ca50ac72f628ca93b33'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6v0309_001.markers.yaml, hash: 'sha256:09e4a53a59d52208de7260e40e2a113cec776973d3ff7815d8778e4fe10ea4fa'}
+  - {seq: 0, role: markers, filename: assets/KR6v0309_000.markers.yaml, hash: 'sha256:d43e6cb51e86dfee6b64b39537414bc4cd900481fb7fe3b2ad0cd3e5e6e1ee88'}
+  - {seq: 1, role: markers, filename: assets/KR6v0309_001.markers.yaml, hash: 'sha256:c5665f29d5cc23425a4aac7dcaded7968611dc26b139c923b8cd2a7b7e07271d'}
 table_of_contents:
 - ref:
     seq: 1
@@ -28,9 +29,6 @@ table_of_contents:
   label: 南傳轉法輪經
   type: juan
   level: 1
-hash: sha256:04d44cc7f350d55733eba86837b299b174a73fe80743420dff35fddea7cffa8e
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:907db9292cce07a8952c13be048d4feca666dbea8858392305a402da79938a8a
 editions:
 - short: B
